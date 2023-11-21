@@ -1,0 +1,19 @@
+.Banner {
+  position: fixed;
+  z-index: 2200;
+  min-height: 26px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  background: var(--color-light);
+  border-top: 1px solid var(--color-brown);
+  color: var(--color-brown);
+  padding: 5px 60px;
+}
+.Banner_inner {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: auto;
+  position: relative;
+}

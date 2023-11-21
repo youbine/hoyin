@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoyin/static/css/main.cd895e59.css",
+    "main.js": "/hoyin/static/js/main.46327074.js",
+    "static/media/blueberry.png": "/hoyin/static/media/blueberry.37a3852287671f3c7f80.png",
+    "static/media/Layer 2.png": "/hoyin/static/media/Layer 2.ceeae2860c43dd8b66be.png",
+    "static/media/Brut_Grotesque_WEB-Book.ttf": "/hoyin/static/media/Brut_Grotesque_WEB-Book.11919a481f546b8dc6d1.ttf",
+    "static/media/Brut_Grotesque_WEB-Book.eot": "/hoyin/static/media/Brut_Grotesque_WEB-Book.85e990c107e83d3e220c.eot",
+    "static/media/Brut_Grotesque_WEB-Book.woff": "/hoyin/static/media/Brut_Grotesque_WEB-Book.8b47e2918d51f7f1edf9.woff",
+    "static/media/Brut_Grotesque_WEB-Book.woff2": "/hoyin/static/media/Brut_Grotesque_WEB-Book.a80efc86d74f76b887ec.woff2",
+    "static/media/사각형 529.png": "/hoyin/static/media/사각형 529.539c5f5378e5bec67d1c.png",
+    "index.html": "/hoyin/index.html",
+    "main.cd895e59.css.map": "/hoyin/static/css/main.cd895e59.css.map",
+    "main.46327074.js.map": "/hoyin/static/js/main.46327074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd895e59.css",
+    "static/js/main.46327074.js"
+  ]
+}

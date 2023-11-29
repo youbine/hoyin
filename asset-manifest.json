@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hoyin/static/css/main.dcae6981.css",
-    "main.js": "/hoyin/static/js/main.12189ae3.js",
+    "main.css": "/hoyin/static/css/main.117ed52e.css",
+    "main.js": "/hoyin/static/js/main.9ca25c68.js",
     "static/media/IE001894688_STD.jpg": "/hoyin/static/media/IE001894688_STD.dd53c0d868e7d3fa6d3d.jpg",
     "static/media/Picture441.png": "/hoyin/static/media/Picture441.b2a9261720f9263c4e31.png",
     "static/media/IE001894689_STD.jpg": "/hoyin/static/media/IE001894689_STD.426f6fcbaa9b019ceb54.jpg",
     "static/media/Picture551.png": "/hoyin/static/media/Picture551.ae5639ce9bc2c194dc9e.png",
     "static/media/윤두서.png": "/hoyin/static/media/윤두서.5e9c8459212b9b1f3c6d.png",
-    "static/media/blueberry.png": "/hoyin/static/media/blueberry.37a3852287671f3c7f80.png",
     "static/media/Layer 2.png": "/hoyin/static/media/Layer 2.ceeae2860c43dd8b66be.png",
     "static/media/고전.png": "/hoyin/static/media/고전.3386f8097cd67082fc51.png",
     "static/media/Brut_Grotesque_WEB-Book.ttf": "/hoyin/static/media/Brut_Grotesque_WEB-Book.11919a481f546b8dc6d1.ttf",
     "static/media/Brut_Grotesque_WEB-Book.eot": "/hoyin/static/media/Brut_Grotesque_WEB-Book.85e990c107e83d3e220c.eot",
     "static/media/천인심성합일지도-2.jpg": "/hoyin/static/media/천인심성합일지도-2.0ed9b1202052964ae642.jpg",
     "static/media/시상식.jpg": "/hoyin/static/media/시상식.591c0308c8217421362d.jpg",
+    "static/media/그림1.jpg": "/hoyin/static/media/그림1.87f7d115866c4d424916.jpg",
     "static/media/img0804.jpg": "/hoyin/static/media/img0804.4958f83ce32bcc07a5d4.jpg",
     "static/media/Brut_Grotesque_WEB-Book.woff": "/hoyin/static/media/Brut_Grotesque_WEB-Book.8b47e2918d51f7f1edf9.woff",
     "static/media/김건희.jpg": "/hoyin/static/media/김건희.3f036b5012aca8c540cc.jpg",
@@ -23,17 +23,16 @@
     "static/media/1696493305834.jpg": "/hoyin/static/media/1696493305834.368ec689bec4882c850e.jpg",
     "static/media/이다우.jpeg": "/hoyin/static/media/이다우.c62a84e3d8e171a35917.jpeg",
     "static/media/1611130165251.jpg": "/hoyin/static/media/1611130165251.c48c2d51e6a30f4971cf.jpg",
-    "static/media/사각형 529.png": "/hoyin/static/media/사각형 529.539c5f5378e5bec67d1c.png",
     "static/media/1623643953148-2.jpg": "/hoyin/static/media/1623643953148-2.81e70cec1d0cad54071b.jpg",
     "static/media/1623643953148.jpg": "/hoyin/static/media/1623643953148.81e70cec1d0cad54071b.jpg",
     "static/media/_20151113072047_01.jpg": "/hoyin/static/media/201511130718520244697_20151113072047_01.0094622dc902017adad4.jpg",
     "static/media/1561626616380.jpg": "/hoyin/static/media/1561626616380.26bfdfdc7212342fc55a.jpg",
     "index.html": "/hoyin/index.html",
-    "main.dcae6981.css.map": "/hoyin/static/css/main.dcae6981.css.map",
-    "main.12189ae3.js.map": "/hoyin/static/js/main.12189ae3.js.map"
+    "main.117ed52e.css.map": "/hoyin/static/css/main.117ed52e.css.map",
+    "main.9ca25c68.js.map": "/hoyin/static/js/main.9ca25c68.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcae6981.css",
-    "static/js/main.12189ae3.js"
+    "static/css/main.117ed52e.css",
+    "static/js/main.9ca25c68.js"
   ]
 }

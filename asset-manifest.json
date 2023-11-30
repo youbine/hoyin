@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hoyin/static/css/main.3f466916.css",
-    "main.js": "/hoyin/static/js/main.6d12cd08.js",
+    "main.css": "/hoyin/static/css/main.d6da3b97.css",
+    "main.js": "/hoyin/static/js/main.f9c18b04.js",
     "static/media/IE001894688_STD.jpg": "/hoyin/static/media/IE001894688_STD.dd53c0d868e7d3fa6d3d.jpg",
     "static/media/Picture441.png": "/hoyin/static/media/Picture441.b2a9261720f9263c4e31.png",
     "static/media/IE001894689_STD.jpg": "/hoyin/static/media/IE001894689_STD.426f6fcbaa9b019ceb54.jpg",
@@ -13,26 +13,43 @@
     "static/media/Brut_Grotesque_WEB-Book.ttf": "/hoyin/static/media/Brut_Grotesque_WEB-Book.11919a481f546b8dc6d1.ttf",
     "static/media/Brut_Grotesque_WEB-Book.eot": "/hoyin/static/media/Brut_Grotesque_WEB-Book.85e990c107e83d3e220c.eot",
     "static/media/천인심성합일지도-2.jpg": "/hoyin/static/media/천인심성합일지도-2.0ed9b1202052964ae642.jpg",
+    "static/media/0000272399_001_jpg": "/hoyin/static/media/0000272399_001_20210729115414779.9f1f4f026eeb6224ce83.jpg",
+    "static/media/0003086709_001_jpg": "/hoyin/static/media/0003086709_001_20210720171305965.aed8cdcdc0cd27e86790.jpg",
+    "static/media/20210728.jpeg": "/hoyin/static/media/20210728.bc316ec6bb995116ae66.jpeg",
     "static/media/시상식.jpg": "/hoyin/static/media/시상식.591c0308c8217421362d.jpg",
+    "static/media/2021072005.jpeg": "/hoyin/static/media/2021072005.58a06fa37b9894e0c5c5.jpeg",
+    "static/media/2021072701.jpeg": "/hoyin/static/media/2021072701.8bc7e5d9b6b8029d6f8e.jpeg",
+    "static/media/0011088189_002_png": "/hoyin/static/media/0011088189_002_20210723143616806.964afe8d373279328c76.png",
+    "static/media/2021072001.jpeg": "/hoyin/static/media/2021072001.b8b95cfc12132baeca40.jpeg",
+    "static/media/2021091001.jpeg": "/hoyin/static/media/2021091001.0f26916bab3f6f8735ca.jpeg",
+    "static/media/1669624_834048_183.jpg": "/hoyin/static/media/1669624_834048_183.c55802f25e264b080364.jpg",
     "static/media/img0804.jpg": "/hoyin/static/media/img0804.4958f83ce32bcc07a5d4.jpg",
     "static/media/Brut_Grotesque_WEB-Book.woff": "/hoyin/static/media/Brut_Grotesque_WEB-Book.8b47e2918d51f7f1edf9.woff",
     "static/media/김건희.jpg": "/hoyin/static/media/김건희.3f036b5012aca8c540cc.jpg",
     "static/media/Brut_Grotesque_WEB-Book.woff2": "/hoyin/static/media/Brut_Grotesque_WEB-Book.a80efc86d74f76b887ec.woff2",
+    "static/media/2021072101.jpeg": "/hoyin/static/media/2021072101.8e1344b4521a61045ee1.jpeg",
     "static/media/1698982314621.jpg": "/hoyin/static/media/1698982314621.ba3150e9090a2b5864ec.jpg",
     "static/media/이은재.jpeg": "/hoyin/static/media/이은재.4a780009642ffc2475ec.jpeg",
     "static/media/1696493305834.jpg": "/hoyin/static/media/1696493305834.368ec689bec4882c850e.jpg",
     "static/media/이다우.jpeg": "/hoyin/static/media/이다우.c62a84e3d8e171a35917.jpeg",
     "static/media/1611130165251.jpg": "/hoyin/static/media/1611130165251.c48c2d51e6a30f4971cf.jpg",
+    "static/media/2021072201.jpeg": "/hoyin/static/media/2021072201.d998b1dd20081cc8fe3c.jpeg",
     "static/media/1623643953148-2.jpg": "/hoyin/static/media/1623643953148-2.81e70cec1d0cad54071b.jpg",
     "static/media/1623643953148.jpg": "/hoyin/static/media/1623643953148.81e70cec1d0cad54071b.jpg",
+    "static/media/2021072002.jpeg": "/hoyin/static/media/2021072002.23c210143b648ef8ad27.jpeg",
     "static/media/_20151113072047_01.jpg": "/hoyin/static/media/201511130718520244697_20151113072047_01.0094622dc902017adad4.jpg",
     "static/media/1561626616380.jpg": "/hoyin/static/media/1561626616380.26bfdfdc7212342fc55a.jpg",
+    "static/media/2021072702.jpeg": "/hoyin/static/media/2021072702.9dae489e20f1fb3059a0.jpeg",
+    "static/media/2021072004.png": "/hoyin/static/media/2021072004.722657f1c013cb4b4260.png",
+    "static/media/2021072801.jpeg": "/hoyin/static/media/2021072801.76de7b569a3fb44329f5.jpeg",
+    "static/media/0003122579_003_jpg": "/hoyin/static/media/0003122579_003_20210729090603519.ff42547ff96bf1182a79.jpg",
+    "static/media/2021072003.jpeg": "/hoyin/static/media/2021072003.cfd6052756e1a82b6eee.jpeg",
     "index.html": "/hoyin/index.html",
-    "main.3f466916.css.map": "/hoyin/static/css/main.3f466916.css.map",
-    "main.6d12cd08.js.map": "/hoyin/static/js/main.6d12cd08.js.map"
+    "main.d6da3b97.css.map": "/hoyin/static/css/main.d6da3b97.css.map",
+    "main.f9c18b04.js.map": "/hoyin/static/js/main.f9c18b04.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f466916.css",
-    "static/js/main.6d12cd08.js"
+    "static/css/main.d6da3b97.css",
+    "static/js/main.f9c18b04.js"
   ]
 }
